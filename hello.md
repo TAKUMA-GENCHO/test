@@ -2,3 +2,4 @@
 Hello world!!
 pushするよ
 mergeするよ
+deleteしちゃった
